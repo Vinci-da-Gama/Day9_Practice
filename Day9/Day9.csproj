@@ -42,11 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="L4_ExtensionFunction\ExtensionFunctionL4.cs" />
+    <Compile Include="L567_Delegate_AnonymousMethod_lambda\L5Delegate.cs" />
+    <Compile Include="Shared\GenerateOrders.cs" />
+    <Compile Include="L1ObjCollection\OrderAddressL1.cs" />
+    <Compile Include="L1ObjCollection\OrderItemL1.cs" />
+    <Compile Include="L1ObjCollection\OrdersObjL1.cs" />
+    <Compile Include="L3_AnonymousType\AnonymousTypeL3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
