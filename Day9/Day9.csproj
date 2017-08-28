@@ -64,6 +64,7 @@
     <Compile Include="L9_L11\FetchCountries.cs" />
     <Compile Include="L9_L11\L11LinqRetrunObj.cs" />
     <Compile Include="L9_L11\L9Linq.cs" />
+    <Compile Include="L9_L11\Order_Summary.cs" />
     <Compile Include="Shared\DelegateMethods.cs" />
     <Compile Include="Shared\GenerateOrders.cs" />
     <Compile Include="L1ObjCollection\OrderAddressL1.cs" />
