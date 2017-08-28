@@ -4,3 +4,5 @@ C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_Solu\Day9\bin\Debug\Day9.pdb
 C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_Solu\Day9\obj\Debug\Day9.csproj.CoreCompileInputs.cache
 C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_Solu\Day9\obj\Debug\Day9.exe
 C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_Solu\Day9\obj\Debug\Day9.pdb
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_Solu\Day9\bin\Debug\Db\Day9Lecture.mdf
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_Solu\Day9\bin\Debug\Db\Day9Lecture_log.ldf
