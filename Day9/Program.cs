@@ -219,8 +219,9 @@ namespace Day9
             L12_WhereClause wc = new L12_WhereClause();
             wc.LinqQueryWhere();
             wc.MethodSyntaxWhere();
-            Console.WriteLine("222 -- Cross levels and cross tables.");
             wc.OpDataCrossTablesNLevels();
+            L13_BuildInFunction bf = new L13_BuildInFunction();
+            bf.ShowBuildInFunction();
             #endregion
 
             Console.ReadLine();
