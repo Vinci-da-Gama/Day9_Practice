@@ -57,6 +57,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="L12_L13\L12_WhereClause.cs" />
+    <Compile Include="L12_L13\Product.cs" />
     <Compile Include="L4_ExtensionFunction\ExtensionFunctionL4.cs" />
     <Compile Include="L567_Delegate_AnonymousMethod_lambda\L5Delegate.cs" />
     <Compile Include="L567_Delegate_AnonymousMethod_lambda\L7FuncNLambda.cs" />

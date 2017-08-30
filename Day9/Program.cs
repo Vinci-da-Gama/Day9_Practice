@@ -10,6 +10,7 @@ using Day9.L3_AnonymousType;
 using Day9.L4_ExtensionFunction;
 using Day9.L567_Delegate_AnonymousMethod_lambda;
 using Day9.L9_L11;
+using Day9.L12_L13;
 using Day9.Shared;
 
 namespace Day9
@@ -71,7 +72,7 @@ namespace Day9
             string[] Names = Source.SetStringArr();
             foreach (string name in Names)
             {
-                Console.WriteLine("77 -- name: {0}.", name);
+                Console.WriteLine("75 -- name: {0}.", name);
             }
             Console.WriteLine("Press 1 Input Start With letter, Press 2 input End with Letter.");
             string InputedNum = Console.ReadLine();
@@ -212,6 +213,14 @@ namespace Day9
 
             L11LinqRetrunObj odObj = new L11LinqRetrunObj();
             odObj.ShowOrderDates();
+            #endregion
+
+            #region L12_L13
+            L12_WhereClause wc = new L12_WhereClause();
+            wc.LinqQueryWhere();
+            wc.MethodSyntaxWhere();
+            Console.WriteLine("222 -- Cross levels and cross tables.");
+            wc.OpDataCrossTablesNLevels();
             #endregion
 
             Console.ReadLine();
